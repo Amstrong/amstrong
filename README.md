@@ -1,6 +1,6 @@
 ### Hi! I'm Amstrong
 
- 🔜 Software Engineering at Universidad Del Norte & 
+ 🔜 Software Engineering at Universidad Del Norte.
 
 👨🏻‍💻 Currently freelancer Frontend Developer
 
