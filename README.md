@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/10078203/88257987-aab59e00-cc84-11ea-85ae-9ff2dd118083.png)
----
 <p align ="center"> Software Engineering at Universidad Del Norte. </p>
 <p align="center">
   <a href="https://twitter.com/amstrongm29">Twitter</a> •
