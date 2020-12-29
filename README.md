@@ -1,4 +1,4 @@
-<p align ="center"> Software Engineering at Universidad Del Norte. Frontend Developer BrickFlood. </p>
+<p align ="center"> Software Engineering at Universidad Del Norte. FullStack Developer BrickFlood. </p>
 <p align="center">
   <a href="https://twitter.com/amstrongm29">Twitter</a> •
   <a href="https://www.linkedin.com/in/amstrongmonachello/">Linkedin</a> •
